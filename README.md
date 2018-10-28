@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Anthony George
+## UC Berkeley Mathematics
 
 You can use the [editor on GitHub](https://github.com/mathemagical/mathemagical.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
