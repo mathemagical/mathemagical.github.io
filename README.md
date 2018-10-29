@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![IMG_0013.jpg](https://drive.google.com/file/d/1jzukTUUnKYDbLkM2VRURNlz0N4lYe2A_/view?usp=sharing)
+[Link](url) and ![Avatar](mathemagical.github.io/IMG_0013.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
