@@ -1,8 +1,8 @@
 ## Anthony George
 ## UC Berkeley Mathematics
 
-Resume for cs related: swe, crypto, etc...
-Resume for math research opportunities...
+Curriculum Vitae for cs related: swe, crypto/analysis, r&d, etc...
+
 
 Feel free to set this as your homepage if you'd like to join my cult.
 
