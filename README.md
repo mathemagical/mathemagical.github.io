@@ -4,7 +4,7 @@
 Resume for cs related: swe, crypto, etc...
 Resume for math research opportunities...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to set this as your homepage if you'd like to join my cult.
 
 ### Markdown
 
