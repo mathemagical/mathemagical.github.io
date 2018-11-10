@@ -2,7 +2,7 @@
 ## UC Berkeley Mathematics
 
 Curriculum Vitae for cs related: swe, crypto/analysis, r&d, etc...
-
+![](newfolder/IMG_0013.jpg)
 
 Feel free to set this as your homepage if you'd like to join my cult.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![](newfolder/IMG_0013.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
