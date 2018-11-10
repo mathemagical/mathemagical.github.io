@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to my homepage!
-![](newfolder/IMG_0013.jpg){:height="30px" width="30x"}.
+image: ![](newfolder/IMG_0013.jpg){:height="30px" width="30x"}.
 description: Feel free to set this as your homepage if you'd like to be in my cult.
 
