@@ -2,7 +2,7 @@
 ## UC Berkeley Mathematics
 
 Curriculum Vitae for cs related: swe, crypto/analysis, r&d, etc...
-![](newfolder/IMG_0013.jpg)
+![](newfolder/IMG_0013.jpg =20x20)
 
 Feel free to set this as your homepage if you'd like to join my cult.
 
