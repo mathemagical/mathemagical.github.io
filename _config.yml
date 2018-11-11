@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 name: "Anthony's site"
 title: Welcome to my homepage!
-teaser: ![](newfolder/IMG_0013.jpg){:height="150px" width="150x"}.
+teaser: /newfolder/IMG_0013.jpg
 description: Feel free to set this as your homepage if you'd like to be in my cult.
 
